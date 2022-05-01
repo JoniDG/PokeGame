@@ -1,0 +1,11 @@
+.card{
+    box-shadow: 1px 1px 5px gray;
+    margin: 5px;
+    background-color: rgb(216, 210, 210);
+}
+
+
+.card-item{
+    display: flex;
+    padding: 1rem;
+}
